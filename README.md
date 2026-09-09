@@ -15,3 +15,13 @@ I relied on Claude to write most of the features, and they worked. But whenever 
     Understanding, I realised, is the precondition of owning a work.
 
     When AI can write code, programming becomes less about producing and more about judging. What this course teaches me is not how to generate code, but how to read, evaluate, and revise it — to be a reader who answers for the work.
+
+## The Gap Between Describing and Specifying
+
+
+## Reading Code as a Material
+
+
+## Conclusion
+
+## References
