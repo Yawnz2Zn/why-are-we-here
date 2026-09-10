@@ -18,7 +18,7 @@ I relied on Claude to write most of the features, and they worked. But whenever 
 ## The Thrill of Making the Machine Do What You Want
 [Dylan Beattie's talk "The Art of Code"](https://www.youtube.com/watch?v=6avJHaC3C2U) opens with a confession that I now recognise in myself. 
 Using Logo, he could make the computer draw pictures — things that perhaps nobody had ever seen on any screen before. "I liked it because I could make the computer do what I wanted," he says, "and every time I did that I'd get this little thrill and this rush."
-
+For me, that thrill initially came from asking Claude to build features: I typed a description, the code appeared, and the game changed. But over time the rush faded, because I could not see why the code worked, or which part of it made the bounce feel heavy instead of light.
 ## The Gap Between Describing and Specifying
 What I learned first is the difference between describing and specifying. I could say "make the bounce feel heavier," but the word "heavier" meant little to the language model.
 It needed a number, an easing curve, a duration. I had to learn to translate a felt sense into concrete constraints.
