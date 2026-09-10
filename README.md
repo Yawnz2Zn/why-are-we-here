@@ -15,12 +15,17 @@ I relied on Claude to write most of the features, and they worked. But whenever 
     Understanding, I realised, is the precondition of owning a work.
     When AI can write code, programming becomes less about producing and more about judging. What this course teaches me is not how to generate code, but how to read, evaluate, and revise it — to be a reader who answers for the work.
 
+## The Thrill of Making the Machine Do What You Want
+[Dylan Beattie's talk "The Art of Code"](https://www.youtube.com/watch?v=6avJHaC3C2U) opens with a confession that I now recognise in myself. 
+Using Logo, he could make the computer draw pictures — things that perhaps nobody had ever seen on any screen before. "I liked it because I could make the computer do what I wanted," he says, "and every time I did that I'd get this little thrill and this rush."
+
 ## The Gap Between Describing and Specifying
 What I learned first is the difference between describing and specifying. I could say "make the bounce feel heavier," but the word "heavier" meant little to the language model.
 It needed a number, an easing curve, a duration. I had to learn to translate a felt sense into concrete constraints.
 Until I did, I was stuck in a loop: describe, regenerate, test, fail, describe again.
-
-
+The philosopher Don Ihde writes that technologies mediate our experience; a tool is never a neutral executor of commands but a way of shaping what we can intend.
+I saw this directly: as long as the code was opaque to me, my intentions stayed blurry.
+Reading code gave me the vocabulary to specify instead of merely describe.
 
 ## Reading Code as a Material
 
