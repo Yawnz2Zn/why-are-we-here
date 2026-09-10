@@ -13,10 +13,13 @@ I relied on Claude to write most of the features, and they worked. But whenever 
    That is why I began to ask: if machines can already write good code in 2026, why should I still learn to program?
     My answer is that I need to learn not just how to write code, but how to read and understand it — how to make it serve my intentions instead of imposing its own defaults. 
     Understanding, I realised, is the precondition of owning a work.
-
     When AI can write code, programming becomes less about producing and more about judging. What this course teaches me is not how to generate code, but how to read, evaluate, and revise it — to be a reader who answers for the work.
 
 ## The Gap Between Describing and Specifying
+What I learned first is the difference between describing and specifying. I could say "make the bounce feel heavier," but the word "heavier" meant little to the language model.
+It needed a number, an easing curve, a duration. I had to learn to translate a felt sense into concrete constraints.
+Until I did, I was stuck in a loop: describe, regenerate, test, fail, describe again.
+
 
 
 ## Reading Code as a Material
