@@ -23,3 +23,21 @@ It also proposed ending with:
 *"AI won't replace artists, but artists who use AI will replace those who don't."*  
 
 I rejected both. They are familiar, generic lines that do not represent my argument. My point is not about competition between people and machines, nor about winners and losers. It is about the need to understand the medium in order to truly own the work. Those clichés would have weakened my position and made the essay sound like every other AI-generated reflection.
+
+
+## Update (2026-09-10)
+
+Used DeepSeek on Beattie's talk transcript.
+
+### Used for
+- Summarising key ideas and connecting them to my argument
+- Polishing the new section in English
+
+### Kept
+- Beattie's Logo story; to control a machine you must understand it
+- The Mandelbrot zoom as reading hidden structure in code
+
+### Rejected
+- Over-long summaries that would make the essay feel like a book report
+- Generic AI-sounding transitions like "In a world of rapidly advancing AI..."
+- Quotes irrelevant to my argument about reading and judging code
