@@ -19,6 +19,8 @@ I relied on Claude to write most of the features, and they worked. But whenever 
 [Dylan Beattie's talk "The Art of Code"](https://www.youtube.com/watch?v=6avJHaC3C2U) opens with a confession that I now recognise in myself. 
 Using Logo, he could make the computer draw pictures — things that perhaps nobody had ever seen on any screen before. "I liked it because I could make the computer do what I wanted," he says, "and every time I did that I'd get this little thrill and this rush."
 For me, that thrill initially came from asking Claude to build features: I typed a description, the code appeared, and the game changed. But over time the rush faded, because I could not see why the code worked, or which part of it made the bounce feel heavy instead of light.
+Beattie says that throughout his entire career, that thrill never went away.
+I believe the thrill only survives when you can actually read what the machine has done — otherwise you are not making it do what you want; you are just getting lucky and hoping.
 ## The Gap Between Describing and Specifying
 What I learned first is the difference between describing and specifying. I could say "make the bounce feel heavier," but the word "heavier" meant little to the language model.
 It needed a number, an easing curve, a duration. I had to learn to translate a felt sense into concrete constraints.
@@ -28,8 +30,12 @@ I saw this directly: as long as the code was opaque to me, my intentions stayed 
 Reading code gave me the vocabulary to specify instead of merely describe.
 
 ## Reading Code as a Material
+The philosopher Don Ihde makes a compatible point: technologies are not neutral tools that simply execute our wishes.
+They mediate what we perceive and what we can intend. While the code was opaque to me, my intentions stayed blurry.
 
 
 ## Conclusion
 
 ## References
+Beattie, D. (n.d.). *The Art of Code* [Video]. YouTube. Retrieved September 10, 2026, from https://www.youtube.com/watch?v=6avJHaC3C2U
+Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
