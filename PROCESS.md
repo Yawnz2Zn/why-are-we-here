@@ -41,3 +41,38 @@ Used DeepSeek on Beattie's talk transcript.
 - Over-long summaries that would make the essay feel like a book report
 - Generic AI-sounding transitions like "In a world of rapidly advancing AI..."
 - Quotes irrelevant to my argument about reading and judging code
+
+
+# PROCESS
+
+Final update: 2026-09-13
+
+## Today's work
+
+- Used DeepSeek to summarise the Beattie transcript and verify the logo example before finalising the essay.
+- Refined the English of the final draft, checking that each paragraph still reflected my own experience.
+- Completed the final README and PROCESS.md, and prepared them for submission.
+- Diagnosed and fixed a `git push` failure that had blocked submission.
+
+## What I kept
+
+- The main thesis: with AI writing code, understanding code is the precondition of owning a work.
+- The Beattie logo example, the move from describing to specifying, code as a material, and the softened Nake/Nees conclusion.
+- The verified references and the in-text link required by the assignment.
+
+## What I rejected
+
+- Generic AI sentences that did not match my own experience.
+- Any claim about early computer art that went beyond what the source could support.
+- Any unverifiable reference.
+
+## Git push troubleshooting
+
+- Problem: `git push` repeatedly failed with `Failed to connect to github.com:443 over proxy 127.0.0.1:7890: Connection refused`.
+- Cause: leftover GitHub-specific proxy settings in the global Git config, stored as `http.https://github.com.proxy` and `https.https://github.com.proxy`. Removing the general `http.proxy` did not affect them.
+- Fix: found the entries with `git config --list --show-origin | findstr proxy`, then removed them with:
+  - `git config --global --unset http.https://github.com.proxy`
+  - `git config --global --unset https.https://github.com.proxy`
+- Result: `git push` succeeded; the remote repository now contains the final README and PROCESS.md.
+- What I kept: the HTTPS remote URL and a clean proxy-free Git configuration.
+- What I rejected: force-pushing, switching to SSH, or disabling all proxy settings globally when only the two GitHub-specific entries were the problem.
