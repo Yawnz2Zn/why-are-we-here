@@ -38,4 +38,5 @@ They mediate what we perceive and what we can intend. While the code was opaque 
 
 ## References
 Beattie, D. (n.d.). *The Art of Code* [Video]. YouTube. Retrieved September 10, 2026, from https://www.youtube.com/watch?v=6avJHaC3C2U
+
 Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
