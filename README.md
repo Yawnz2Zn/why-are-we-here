@@ -1,7 +1,4 @@
 ## My Reflection
-git add README.md PROCESS.md
-git commit -m "first draft of intro and process"
-git push
 
 ## Intro
 During my graduation project, I was developing a web game while knowing almost nothing about code. 
