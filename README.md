@@ -36,15 +36,25 @@ A third thread in the talk is that code is not only a tool for making art; it ca
 Beattie shows "quines" — programs that print their own source code — including an HTML page rendered as a web page and a single file that runs in C, Ruby, Python and Perl at the same time.
 He shows esoteric languages like Shakespeare, Piet and Chef, where valid programs are also plays, paintings and recipes.
 The "Hello World cake" is a program that prints "Hello World" when compiled on a computer, and produces an edible cake when executed in a kitchen. 
+
 This matters for my practice because I am a designer more than a programmer. 
 I used to think of code as plumbing: ugly, instrumental, hidden behind the work. 
 Beattie convinced me the opposite — code can be a material in its own right.
 The fact that the machine can generate it in 2026 does not make the material irrelevant. 
 
+Beattie convinced me the opposite — code can be a material in its own right.
+The fact that the machine can generate it in 2026 does not make the material irrelevant. 
 
+It makes judgment more important. A painter who understands paint can react to what the brush does;
+ a designer who understands code can react to what the model produces, find the one function that controls the bounce, and change it.
 
 
 ## Conclusion
+When photography appeared, painting was pronounced dead. When synthesisers appeared, musicians were told their craft was over. And in 1965, when Frieder Nake and Georg Nees exhibited algorithmically generated drawings, critics accused them of trying to replace artists. None of this happened.
+Photography became another way of seeing; synthesisers became instruments; computer graphics became a new medium. 
+The same is happening to programming: AI will not make coding obsolete, it will make the ability to judge code more valuable.
+
+
 
 ## References
 Beattie, D. (n.d.). *The Art of Code* [Video]. YouTube. Retrieved September 10, 2026, from https://www.youtube.com/watch?v=6avJHaC3C2U
