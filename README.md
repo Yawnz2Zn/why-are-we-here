@@ -46,15 +46,12 @@ I used to think of code as plumbing: ugly, instrumental, hidden behind the work.
 Beattie convinced me the opposite — code can be a material in its own right.
 The fact that the machine can generate it in 2026 does not make the material irrelevant. 
 
-Beattie convinced me the opposite — code can be a material in its own right.
-The fact that the machine can generate it in 2026 does not make the material irrelevant. 
-
 It makes judgment more important. A painter who understands paint can react to what the brush does;
  a designer who understands code can react to what the model produces, find the one function that controls the bounce, and change it.
 
 
 ## Conclusion
-When photography appeared, painting was pronounced dead. When synthesisers appeared, musicians were told their craft was over. In 1965, Frieder Nake and Georg Nees exhibited algorithmically generated drawings; some observers worried that algorithmic art might diminish the artist’s role. It did not. None of this happened.
+When photography appeared, painting was pronounced dead. When synthesisers appeared, musicians were told their craft was over. In 1965, Frieder Nake and Georg Nees exhibited algorithmically generated drawings; some observers worried that algorithmic art might diminish the artist’s role. None of this happened.
 Photography became another way of seeing; synthesisers became instruments; computer graphics became a new medium. 
 The same is happening to programming: AI will not make coding obsolete, it will make the ability to judge code more valuable.
 
@@ -65,4 +62,3 @@ Beattie, D. (n.d.). *The Art of Code* [Video]. YouTube. Retrieved September 10, 
 
 Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
 
-Lovelace, A. A. (1843). Note G. In L. F. Menabrea, *Sketch of the analytical engine invented by Charles Babbage*. Retrieved September 10, 2026, from https://www.fourmilab.ch/babbage/sketch.html
