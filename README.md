@@ -37,7 +37,7 @@ Reading code gave me the vocabulary to specify instead of merely describe.
 ## Code Itself Is a Material and an Art Form
 
 A third thread in the talk is that code is not only a tool for making art; it can itself be the art.
-Beattie shows "quines" — programs that print their own source code — including an HTML page rendered as a web page and a single file that runs in C, Ruby, Python and Perl at the same time.
+Beattie shows quines and polyglot examples.
 He shows esoteric languages like Shakespeare, Piet and Chef, where valid programs are also plays, paintings and recipes.
 The "Hello World cake" is a program that prints "Hello World" when compiled on a computer, and produces an edible cake when executed in a kitchen. 
 
@@ -54,7 +54,7 @@ It makes judgment more important. A painter who understands paint can react to w
 
 
 ## Conclusion
-When photography appeared, painting was pronounced dead. When synthesisers appeared, musicians were told their craft was over. And in 1965, when Frieder Nake and Georg Nees exhibited algorithmically generated drawings, critics accused them of trying to replace artists. None of this happened.
+When photography appeared, painting was pronounced dead. When synthesisers appeared, musicians were told their craft was over. In 1965, Frieder Nake and Georg Nees exhibited algorithmically generated drawings; some observers worried that algorithmic art might diminish the artist’s role. It did not. None of this happened.
 Photography became another way of seeing; synthesisers became instruments; computer graphics became a new medium. 
 The same is happening to programming: AI will not make coding obsolete, it will make the ability to judge code more valuable.
 
